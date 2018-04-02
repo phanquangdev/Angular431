@@ -1,0 +1,19 @@
+Su dung GitHub
+1. Tao tai khoan
+2. Tao ten du an tren Git
+3. Tao thu muc chua ma nguon
+4. CD vào thu muc
+5. Git bash here de lay code ve:
+git clone + duong dan copy (https://github.com/phanquangdev/Angular431.git)
+6. Muon day code len git, go
+git status
+7. Them cac file de git theo doi:
+git add *
+8. chay lai git status de kiem tra:
+git status
+9. dua file vao git local:
+git commit -m"add new file test"
+10. go lenh de dua du lieu len git cloud:
+git push
+
+
