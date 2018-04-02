@@ -2,7 +2,7 @@ Su dung GitHub
 1. Tao tai khoan
 2. Tao ten du an tren Git
 3. Tao thu muc chua ma nguon
-4. CD v‡o thu muc
+4. CD v√†o thu muc
 5. Git bash here de lay code ve:
 git clone + duong dan copy (https://github.com/phanquangdev/Angular431.git)
 6. Muon day code len git, go
@@ -15,7 +15,18 @@ git status
 git commit -m"add new file test"
 10. go lenh de dua du lieu len git cloud:
 git push
-11. dua nhanh noi dung len lu tru git, go:
+11. dua nhanh noi dung len lu tru vao git local, go:
 git commit -a -m" noi dung comment"
-
-
+12. day du lieu len git:
+git push
+13. Muon quay lai thoi diem commit truoc do, go git log de lau ID cua cac lan truoc :
+git log
+14. Dung lenh log lai:
+ctrl + c
+15. Go tiep lenh, git revert de quay lai thoi diem backup:
+git revert + ID (9411ece55b1a8a0c9a89a6ae1cc9aaa32cf48904
+)
+16. go tiep:
+shift: enter
+17. sau khi da quay ve, dung lenh git push de dong bo tren git hub
+git push
