@@ -15,5 +15,7 @@ git status
 git commit -m"add new file test"
 10. go lenh de dua du lieu len git cloud:
 git push
+11. dua nhanh noi dung len lu tru git, go:
+git commit -a -m" noi dung comment"
 
 
